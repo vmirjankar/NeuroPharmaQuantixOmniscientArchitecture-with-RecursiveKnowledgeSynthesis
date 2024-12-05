@@ -217,7 +217,3 @@ Technical documentation
 Customer support
 And much more!
 
-
-<p align="center">
-Made with 💊 by Siddharth Prakash
-</p>
