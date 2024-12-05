@@ -166,12 +166,6 @@ sequenceDiagram
     Note over U,S: System Ready for Queries
 ```
 
-
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## 🙏 Acknowledgments
 
 - MicroLabs USA for pharmaceutical data
