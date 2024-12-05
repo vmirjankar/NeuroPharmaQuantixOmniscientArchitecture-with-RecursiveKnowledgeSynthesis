@@ -1,4 +1,4 @@
-# NeuroPharmaQuantix Omniscient Architecture with Recursive Knowledge Synthesis v2.7.3-Helios
+# PharmaNova-AI : NeuroPharmaQuantix Omniscient Architecture with Recursive Knowledge Synthesis v2.7.3-Helios
 
 <p align="center">
   <strong>🧬 Advanced Pharmaceutical Knowledge Assistant powered by Neural Embeddings and GroqAI 🤖</strong>
