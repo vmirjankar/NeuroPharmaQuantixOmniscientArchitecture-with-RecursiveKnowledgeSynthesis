@@ -215,5 +215,5 @@ Legal document analysis
 Educational content delivery
 Technical documentation
 Customer support
-And much more!
+and much more!
 
